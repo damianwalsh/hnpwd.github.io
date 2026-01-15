@@ -127,6 +127,15 @@
   :hnuid "nchagnet"
   :bio "Writes about physics, technology and data science.")
 
+ (:name "Peter Bengtsson"
+  :site "https://www.peterbe.com/"
+  :blog "https://www.peterbe.com/"
+  :feed "https://www.peterbe.com/rss.xml"
+  :about "https://www.peterbe.com/about"
+  :now ""
+  :hnuid "https://news.ycombinator.com/user?id=peterbe"
+  :bio "Web developer, from Sweden living in USA, blogging about Python, TypeScript, side projects, and technology")
+ 
  (:name "Phil Booth"
   :site "https://philbooth.me/"
   :blog "https://philbooth.me/blog"
