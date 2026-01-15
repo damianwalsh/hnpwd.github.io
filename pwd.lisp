@@ -64,11 +64,18 @@
   :hnuid "chrismorgan"
   :bio "Software developer, dealing mostly with web things.")
 
-(:name "Dennis Silin"
+ (:name "Dennis Silin"
   :site "https://marscalendar.space"
   :about "https://marscalendar.space/about.html"
   :hnuid "d_silin"
   :bio "Space researcher and software developer.")
+
+ (:name "Doug Slater"
+  :site "https://www.slater.dev/"
+  :feed "https://www.slater.dev/atom.xml"
+  :about "https://www.slater.dev/about"
+  :hnuid "sltr"
+  :bio "Writes fixes for technical and social pains common to all devs.")
 
  (:name "Gavin D. Howard"
   :site "https://gavinhoward.com/"
