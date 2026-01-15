@@ -366,6 +366,13 @@
   :hnuid "xena"
   :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
 
+ (:name "Damian Walsh"
+  :site "https://damianwalsh.co.uk/"
+  :blog "https://damianwalsh.co.uk/posts/"
+  :feed "https://damianwalsh.co.uk/feed.xml"
+  :hnuid "damianwalsh"
+  :bio "I'm Damian, a designer based in Manchester, UK.")
+
  ;; You may copy the following entry to add one for your website.
  ;; Insert your entry at an appropriate place above so that the
  ;; entries remain sorted alphabetically by name.  Delete any
